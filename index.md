@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Kunal Mishra"
 ---
 
-I'm glad you are here. I plan to talk about ...
+# I'm Kunal Mishra. And this is my home on the Internet.
